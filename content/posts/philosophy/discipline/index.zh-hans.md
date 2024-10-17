@@ -9,4 +9,4 @@ cascade:
 
 教育最难且最有价值的点不在于向孩子灌输什么，而在于改变自己。
 
-![](positive_discipline_cn.jpg)
+![](positive_discipline_zh.jpg)

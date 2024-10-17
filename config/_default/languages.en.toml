@@ -13,7 +13,7 @@ title = "Jalon's Site"
   # description = "My awesome website"
 
 [params.author]
-  name = "Jalon Wong"
+  name = "Jalon"
   image = "img/author.png"
   headline = "Embedded Software Engineer | Rustacean"
   bio = "To love yourself"
