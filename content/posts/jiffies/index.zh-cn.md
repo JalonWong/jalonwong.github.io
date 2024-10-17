@@ -1,6 +1,6 @@
 ---
 title: "对 jiffies 溢出、回绕及 time_after 宏的理解"
-date: 2024-05-03T15:44:00+08:00
+date: 2020-05-03
 tags: ["C", "Linux"]
 cascade:
   showTableOfContents: false

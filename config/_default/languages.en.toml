@@ -15,7 +15,7 @@ title = "Jalon's Site"
 [params.author]
   name = "Jalon Wong"
   image = "img/author.png"
-  headline = "Senior Embedded Engineer"
+  headline = "Embedded Software Engineer | Rustacean"
   bio = "To love yourself"
   links = [
     # { email = "mailto:abc@d.com" },

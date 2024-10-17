@@ -15,7 +15,7 @@ title = "嘉珑的小站"
 [params.author]
   name = "嘉珑"
   image = "img/author.png"
-  headline = "Senior Embedded Engineer"
+  headline = "高级嵌入式软件工程师 | Rust 粉丝"
   bio = "To love yourself"
   links = [
     # { email = "mailto:abc@d.com" },
