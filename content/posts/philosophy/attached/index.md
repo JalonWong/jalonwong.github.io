@@ -1,5 +1,5 @@
 ---
-title: "Attached"
+title: "Becoming Attached"
 date: 2023-03-20
 tags: ["Philosophy", "Book"]
 cascade:
